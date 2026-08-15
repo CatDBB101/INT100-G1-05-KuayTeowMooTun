@@ -57,7 +57,12 @@
 
 ## **Interview's impression**  
 * **He's the chill guy. Who can fit with another people easily. He always give the unexpected idea for the team. If possible, I would like to work with him again.**
-
+---
+---
+<br>
+<br>
+<br>
+<br>
 # 👨‍💻 KAMJONDET SRISOMBUT Profile | 
 ## NickName : Boat  |  Student ID : 69130500003 |
 
@@ -301,10 +306,14 @@
 
 ---
 ---
+<br>
+<br>
+<br>
+<br>
 
 # 👨‍💻 WATCHARAPHAT PLANGWAN Profile 
 ## NickName : Focus  |  Student ID : 69130500056 |
-<img src="img/focus.jpg" width="300" style="display: block; margin: 30px auto;" >
+<img src="img/focus.jpg" width="430" style="display: block; margin: 30px auto;" >
 
 ## Personal Profile
 * **Name :** Mr. Watcharaphat Plangwan
@@ -349,7 +358,7 @@
 * I expect to elevate my programming and system development skills from a basic level to a professional level through a Project-based Learning curriculum.
 * I expect to develop problem-solving skills, teamwork, and coordination abilities that will be beneficial for my future career.
 
-## Social Media
+## Social Media 🛜
 * **Facebook :** <a href="https://www.facebook.com/watcharaphat.plangwan/">Watcharaphat Plangwan</a>
 * **Instagram :** <a href="https://www.instagram.com/foforyou_/?hl=en">Foforyou_</a>
 * **GitHub :** <a href="https://github.com/watcharaphatpw-ai">Watcharaphatpw-ai</a>
@@ -372,3 +381,62 @@
 <br>
 
 
+# 💪Wongsathorn Preechanaruet Profile
+## NickName : Joe  |  Student ID : 69130500049 |
+
+<img src="img/joe.jpg" width="400" style="display: block; margin: ;30" >
+
+## Personal Profile
+**Name :** Wongsathorn Preechanaruet<br>
+**Nickname :** Joe<br>
+**Student ID:** 69130500049<br>
+**Date of Birth :** 29 March 2551
+## Education
+* **King Mongkut's University of Technology Thonburi (KMUTT)** — Bachelor's Degree (Currently Studying)
+* **Bangpakok Wittayakom School** — Secondary Education
+* **Panyasak School** — Primary Education<br>
+ * **Favorite Color:** Green
+
+## Hobby
+ **What do you like to do in your free time and why?**<br>
+* I like playing sports, going to the gym, and running because it is a form of exercise that allows me to move my body, build strength, and feel refreshed.
+
+## Goals & Passion
+ **Why did you decide to study IT here, and what is the main reason that makes you still feel it was the right choice (or unexpectedly wrong)?**<br>
+* I decided to study here because I once attended the Open House event and really liked the atmosphere and the teaching style, which had modern equipment. After studying the curriculum, I felt it was knowledge that could be applied to real-world work in the future.
+
+## Career Path Preparation
+**Why do you think studying only in the classroom is not enough for IT students today, and why do we need to seek out extra projects outside of class?**<br>
+* Since AI is increasingly being used in the workplace nowadays, I believe it is necessary to learn more on my own. Trying out projects outside the classroom opens up opportunities to experiment with new things, and I believe that hands-on practice will help me gain knowledge and skills that are much more applicable than just studying from textbooks.
+
+## Quotation
+**What is your personal motto and what does it mean?**<br>
+* "The best investment you can make is in yourself" 
+(The best investment is investing in yourself, because knowledge and skills will stay with you forever.)
+
+## Strength
+ **What do you think are your strengths, and how can you develop and leverage them further?**<br>
+* I am a fast learner and have a lot of physical energy. I can tackle work or various activities well, and I am ready to use this enthusiasm for learning new things in the IT field.
+
+## Weakness
+ **What do you think are your weaknesses, and how can you fix them?**<br>
+* My English skills are not very strong yet, so I need to try harder to practice, read, and use it more to support my studies and future career.
+
+## Social Media 🛜
+* **Instagram :** <a href="https://www.instagram.com/joe_wgt/"> joe_wgt </a>
+* **GitHub :** <a href="https://github.com/jowongsathorn"> jowongsathorn </a> 
+
+## The Interviewer and First Impression
+**The Interview :** 
+Watcharaphat Plangwan   
+**Interview ID :** 
+69130500056  
+**Interviewer's Impression**  
+* Joe's friend seems really down-to-earth, nice, and easy to talk to. They also come across as very disciplined and responsible. Beyond their warm and approachable nature, they consistently demonstrate impressive self-motivation and reliability. They handle every commitment with high dedication while maintaining a positive, collaborative spirit that uplifts everyone in the room.
+
+---
+---
+<br>
+<br>
+<br>
+<br>
