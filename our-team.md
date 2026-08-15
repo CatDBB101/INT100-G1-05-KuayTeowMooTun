@@ -102,7 +102,7 @@
 — Taking other people's words to heart
 — Hard to reach on holidays
 
-## Do you think AI will take our jobs? 🫰🏼
+## 🫰🏼Do you think AI will take our jobs? 
 — I don't think so, as long as we aren't lazy today.
 
 ## Freelancing vs. Hackathons for experience?*
