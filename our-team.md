@@ -301,6 +301,71 @@
 
 ---
 ---
+
+# 👨‍💻 WATCHARAPHAT PLANGWAN Profile 
+## NickName : Focus  |  Student ID : 69130500056 |
+<img src="img/focus.jpg" width="300" style="display: block; margin: 30px auto;" >
+
+## Personal Profile
+* **Name :** Mr. Watcharaphat Plangwan
+* **NickName :** Focus
+* **Student ID :** 69130500056
+* **Date of Birth :** 13 August 2550
+
+## Education
+* **King Mongkut's University of Technology Thonburi (KMUTT)** — Bachelor's degree (currently studying)
+* **Thungsukhla Pittaya "Krungthai Anukroh" School** — Secondary education
+* **Wat Chuk Kacho School** — Primary education
+
+## Hobby
+**What do you like to do in your free time and why?**
+* I like playing basketball because it allows me to exercise and move my body. It also gives me a chance to go out, play with friends, and meet new people. Plus, basketball is a fun sport that I can enjoy playing continuously.
+
+## Goals & Passion
+**What are your goals and inspiration?**
+* My goal is to work in a field that matches my skills and interests.<br>
+  My inspiration comes from a senior I know who works in this industry and has recommended career paths that offer great opportunities for growth.
+
+## Quotation
+**What is your motto and what does it mean?**
+* "All success comes from effort." This meaning stems from my personal thoughts and experiences,<br>
+  having once failed due to a lack of attention and effort, so I have taken this as a valuable lesson.
+
+## Strength
+**What do you think your strengths are, and how will you develop them further?**
+* I enjoy developing myself based on my aptitudes. I am very passionate about computers, mobile devices, and technology, so I actively learn about these areas. These skills can be leveraged to build a future career in the IT field.
+
+## Weakness
+**What weaknesses or current problems do you have, and how are you addressing them?**
+* I am quite weak in English. Currently, I lack vocabulary; while I can listen and understand, I struggle to communicate effectively.<br>
+  I am now trying to study more, use English for communication more often, and incorporate it into my daily activities.
+
+## Career Path & Future Career Preparation Assessment
+**Reflections on attitudes toward planning future career paths**
+* Roughly speaking, I plan to study hard, participate in competitions frequently, and accumulate diverse experiences. This includes keeping up with new skills, staying updated with trends, and never falling behind. These efforts should help prepare me for an uncertain future job market.
+
+## Expectations from studying at SIT?
+**What do you expect from studying at SIT?**
+* I expect to elevate my programming and system development skills from a basic level to a professional level through a Project-based Learning curriculum.
+* I expect to develop problem-solving skills, teamwork, and coordination abilities that will be beneficial for my future career.
+
+## Social Media
+* **Facebook :** <a href="https://www.facebook.com/watcharaphat.plangwan/">Watcharaphat Plangwan</a>
+* **Instagram :** <a href="https://www.instagram.com/foforyou_/?hl=en">Foforyou_</a>
+* **GitHub :** <a href="https://github.com/watcharaphatpw-ai">Watcharaphatpw-ai</a>
+
+## The interviewer and first impression
+
+**The Interviewer :**
+ Wongsathorn Preechanarit
+
+**Interview ID :**
+69130500049
+
+**interview's impression**
+* Focus comes across as someone who is highly dedicated to his studies, yet remains very approachable, friendly, and easygoing. He demonstrates solid technical knowledge and carries himself with confidence, showing clear potential as a natural leader. It was a pleasure interviewing him because he communicates his ideas clearly and maintains a great balance between professionalism and a relaxed personality.
+---
+---
 <br>
 <br>
 <br>
