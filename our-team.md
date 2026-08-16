@@ -311,9 +311,9 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 
 
 ## Social Media
-**Facebook :** <a href="https://www.facebook.com/share/193sv5efq1/">Boat RH</a><br>
-**Instagram:**<a href="https://www.instagram.com/boat_rh?igsh=dXhuNnAxbm1md2p6"> boat_rh</a><br>
-**GitHub :**<a href="https://github.com/BoatRH"> BoatRH</a><br>
+**Facebook :**[Boat RH](https://www.facebook.com/share/193sv5efq1/)<br>
+**Instagram :**[boat_rh](https://www.instagram.com/boat_rh?igsh=dXhuNnAxbm1md2p6)<br>
+**GitHub :**[BoatRH](https://github.com/BoatRH)
 
 
 ## How has your two weeks of studying at SIT
@@ -389,9 +389,9 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 * I expect to develop problem-solving skills, teamwork, and coordination abilities that will be beneficial for my future career.
 
 ## :globe_with_meridians: Social Media 
-* **Facebook :** <a href="https://www.facebook.com/watcharaphat.plangwan/">Watcharaphat Plangwan</a>
-* **Instagram :** <a href="https://www.instagram.com/foforyou_/?hl=en">Foforyou_</a>
-* **GitHub :** <a href="https://github.com/watcharaphatpw-ai">Watcharaphatpw-ai</a>
+**Facebook:**[Watcharaphat Plangwan](https://www.facebook.com/watcharaphat.plangwan/)<br>
+**Instagram :**[Foforyou_](https://www.instagram.com/foforyou_/?hl=en)<br>
+**GitHub :**[Watcharaphatpw-ai](https://github.com/watcharaphatpw-ai)
 
 ## The interviewer and first impression
 
@@ -453,9 +453,8 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 * My English skills are not very strong yet, so I need to try harder to practice, read, and use it more to support my studies and future career.
 
 ## :earth_americas: Social Media 
-* **Instagram :** <a href="https://www.instagram.com/joe_wgt/"> joe_wgt </a>
-* **GitHub :** <a href="https://github.com/jowongsathorn"> jowongsathorn </a> 
-
+**Instagram :** [joe_wgt](https://www.instagram.com/joe_wgt/)<br>
+**GitHub :** [jowongsathorn](https://github.com/jowongsathorn)
 ## The Interviewer and First Impression
 **The Interview :** 
 Watcharaphat Plangwan   
