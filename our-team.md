@@ -1,5 +1,31 @@
-# Group Name #
+# Group : KuayTeowMooTun 🍜#
 Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูตุ๋น). We get this name from vote in github issues named "โหวดชื่อ team". Everyone can submit their own team's name idea, And we'll vote use trumb emoji in the comment. The idea of this name's "Wonderfully nonsensical". Asburdity can make people become closer and feel friendly not too stressed.
+  
+  ## Member Group  
+### Name and Student ID 
+* Nitipon Sripaopan
+<br>ID : 69130500031 
+---
+* Kamjondet srisumbut
+<br>ID : 69130500003 
+---
+* Vanich viriyakerkgraikul
+<br>ID : 69130500057
+--- 
+* Teerapat Pinkeaw
+<br>ID : 69130500027
+--- 
+* Watcharaphat Plangwan
+<br>ID : 69130500056
+--- 
+* Wongsathorn Preechanaruet
+<br>ID : 69130500049
+---
+---
+<br>
+<br>
+<br>
+<br>
 
 # 😌Nitipon Sripaopan Profile | 
 ## NickName : Peet  |  Student ID : 69130500031 |
@@ -66,6 +92,7 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 <br>
 <br>
 <br>
+
 # 👨‍💻 KAMJONDET SRISOMBUT Profile | 
 ## NickName : Boat  |  Student ID : 69130500003 |
 
