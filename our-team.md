@@ -1,4 +1,4 @@
-# Group : KuayTeowMooTun 🍜#
+# :ramen: Group : KuayTeowMooTun #
 Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูตุ๋น). We get this name from vote in github issues named "โหวดชื่อ team". Everyone can submit their own team's name idea, And we'll vote use trumb emoji in the comment. The idea of this name's "Wonderfully nonsensical". Asburdity can make people become closer and feel friendly not too stressed.
   
   ## Member Group  
@@ -27,7 +27,7 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 <br>
 <br>
 
-# 😌Nitipon Sripaopan Profile | 
+# :relieved: Nitipon Sripaopan Profile | 
 ## NickName : Peet  |  Student ID : 69130500031 |
 
 ![image](./img/peach.jpg)
@@ -74,7 +74,7 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 — Custom PC by myself.
 
 ## Social Media
-**Instagram :**[Peet_nd](https://www.instagram.com/peet_nd/)
+**Instagram :**[Peet_nd](https://www.instagram.com/peet_nd/)<br>
 **GitHub :**[NZXNosk](https://github.com/NZXNosk)
 
 ## The interviewer and first impression
@@ -93,7 +93,7 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 <br>
 <br>
 
-# 👨‍💻 KAMJONDET SRISOMBUT Profile | 
+# :pouting_man: KAMJONDET SRISOMBUT Profile | 
 ## NickName : Boat  |  Student ID : 69130500003 |
 
 ![image](./img/boat1.jpg)
@@ -137,14 +137,14 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 — Taking other people's words to heart
 — Hard to reach on holidays
 
-## 🫰🏼Do you think AI will take our jobs? 
+## 	:v: Do you think AI will take our jobs? 
 — I don't think so, as long as we aren't lazy today.
 
 ## Freelancing vs. Hackathons for experience?*
 — My friends are split 50/50 because each offers a different kind of experience.
 
 ## Social Media 
-**Instagram :**[kamjon.sris](https://www.instagram.com/kamjon.sris/)
+**Instagram :**[kamjon.sris](https://www.instagram.com/kamjon.sris/)<br>
 **GitHub :**[CATDBB101](https://github.com/CatDBB101)<br>
 **Portfolio :**[Portfolio](https://my-portfolio-55daa.web.app/)
 
@@ -166,7 +166,7 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 <br>
 
 
-# 🐼 Vanich viriyakerkgraikul Profile |
+# :panda_face: Vanich viriyakerkgraikul Profile |
 ## NickName : simon  |  Student ID : 69130500057 |
 
 
@@ -269,7 +269,7 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 <br>
 
 
-# 🕷️ TEERAPAT PINKEAW Profile | 
+# :spider: TEERAPAT PINKEAW Profile | 
 ## NickName : Boat  |  Student ID : 69130500027 |
 
 ![image](./img/boat2.jpg)
@@ -341,9 +341,9 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 <br>
 <br>
 
-# 👨‍💻 WATCHARAPHAT PLANGWAN Profile 
+# :sassy_man: WATCHARAPHAT PLANGWAN Profile 
 ## NickName : Focus  |  Student ID : 69130500056 |
-<img src="img/focus.jpg" width="430" style="display: block; margin: 30px auto;" >
+![image](./img/focus.jpg)
 
 ## Personal Profile
 * **Name :** Mr. Watcharaphat Plangwan
@@ -388,7 +388,7 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 * I expect to elevate my programming and system development skills from a basic level to a professional level through a Project-based Learning curriculum.
 * I expect to develop problem-solving skills, teamwork, and coordination abilities that will be beneficial for my future career.
 
-## Social Media 🛜
+## :globe_with_meridians: Social Media 
 * **Facebook :** <a href="https://www.facebook.com/watcharaphat.plangwan/">Watcharaphat Plangwan</a>
 * **Instagram :** <a href="https://www.instagram.com/foforyou_/?hl=en">Foforyou_</a>
 * **GitHub :** <a href="https://github.com/watcharaphatpw-ai">Watcharaphatpw-ai</a>
@@ -411,10 +411,10 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
 <br>
 
 
-# 💪Wongsathorn Preechanaruet Profile
+# :punch: Wongsathorn Preechanaruet Profile
 ## NickName : Joe  |  Student ID : 69130500049 |
 
-<img src="img/joe.jpg" width="400" style="display: block; margin: ;30" >
+![image](./img/joe.jpg)
 
 ## Personal Profile
 **Name :** Wongsathorn Preechanaruet<br>
@@ -452,7 +452,7 @@ Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูต�
  **What do you think are your weaknesses, and how can you fix them?**<br>
 * My English skills are not very strong yet, so I need to try harder to practice, read, and use it more to support my studies and future career.
 
-## Social Media 🛜
+## :earth_americas: Social Media 
 * **Instagram :** <a href="https://www.instagram.com/joe_wgt/"> joe_wgt </a>
 * **GitHub :** <a href="https://github.com/jowongsathorn"> jowongsathorn </a> 
 
