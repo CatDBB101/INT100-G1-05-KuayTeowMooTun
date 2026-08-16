@@ -1,3 +1,6 @@
+# Group Name #
+Our group name is "KuayTeowMooTun" (ก๋วยเตี๋ยวหมูตุ๋น). We get this name from vote in github issues named "โหวดชื่อ team". Everyone can submit their own team's name idea, And we'll vote use trumb emoji in the comment. The idea of this name's "Wonderfully nonsensical". Asburdity can make people become closer and feel friendly not too stressed.
+
 # 😌Nitipon Sripaopan Profile | 
 ## NickName : Peet  |  Student ID : 69130500031 |
 
